@@ -1,7 +1,7 @@
 # my portfolio
 this is my portfolio
 
-## this are new projects here
+### this are new projects here
 
 adding projects here
 
