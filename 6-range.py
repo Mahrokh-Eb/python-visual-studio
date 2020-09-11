@@ -8,3 +8,6 @@ for j in range(10):
     if j%2!=0:
         for m in range(6):
             print('*' * m)
+    else:
+        for m in range(5, 0, -1):
+            print('*' * m)
