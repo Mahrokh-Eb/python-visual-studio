@@ -11,3 +11,7 @@ for j in range(10):
     else:
         for m in range(5, 0, -1):
             print('*' * m)
+
+
+    
+
