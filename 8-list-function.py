@@ -8,3 +8,7 @@ print(myCourses)
 # adding many different items to list
 myCourses.extend(['x', 'y'])
 print(myCourses)
+
+# adding item in the middle
+myCourses.insert(1, 'goli')
+print(myCourses)
