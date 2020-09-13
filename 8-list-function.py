@@ -15,3 +15,6 @@ print(myCourses)
 
 # index
 print(myCourses.index('python'))
+
+# reverse
+print(myCourses.reverse())
