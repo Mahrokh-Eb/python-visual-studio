@@ -21,3 +21,7 @@ print(myCourses.reverse())
 
 #sort
 print(myCourses.sort())
+
+# join, converting list to array
+print(' - '.join(myCourses))
+
