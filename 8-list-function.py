@@ -14,7 +14,10 @@ myCourses.insert(1, 'goli')
 print(myCourses)
 
 # index
-print(myCourses.index('python'))
+print(myCourses.index('kotlin'))
 
 # reverse
 print(myCourses.reverse())
+
+#sort
+print(myCourses.sort())
