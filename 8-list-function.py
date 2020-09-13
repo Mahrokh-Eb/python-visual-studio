@@ -12,3 +12,6 @@ print(myCourses)
 # adding item in the middle
 myCourses.insert(1, 'goli')
 print(myCourses)
+
+# index
+print(myCourses.index('python'))
